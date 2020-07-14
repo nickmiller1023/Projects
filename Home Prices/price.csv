@@ -1,0 +1,16 @@
+,R2,R2a,diff,RMSE,MAE,features
+10,0.8089883423,0.8007283787,0.0082599636,0.0570239345,0.0397598983,"[array(['baths_full', 'photo_count', 'baths_half', 'lot_size', 'baths',
+       'garage', 'year_built', 'beds', 'building_size'], dtype=object)]"
+9,0.8089883423,0.8007283787,0.0082599636,0.0570239345,0.0397598983,"[array(['baths_half', 'photo_count', 'baths', 'lot_size', 'garage',
+       'year_built', 'beds', 'building_size'], dtype=object)]"
+8,0.8086580038,0.8014569609,0.0072010429,0.0570732222,0.0396865173,"[array(['photo_count', 'lot_size', 'baths', 'garage', 'year_built', 'beds',
+       'building_size'], dtype=object)]"
+7,0.8078020699,0.8016352914,0.0061667785,0.0572007331,0.0399905682,"[array(['lot_size', 'baths', 'garage', 'year_built', 'beds',
+       'building_size'], dtype=object)]"
+6,0.8039651417,0.7987514487,0.005213693,0.0577688728,0.0403658548,"[array(['baths', 'year_built', 'garage', 'beds', 'building_size'],
+      dtype=object)]"
+5,0.8007525204,0.7965356426,0.0042168779,0.0582403076,0.0405863059,"[array(['year_built', 'garage', 'beds', 'building_size'], dtype=object)]"
+4,0.7944911795,0.7912463034,0.0032448761,0.0591483284,0.0421870343,"[array(['beds', 'garage', 'building_size'], dtype=object)]"
+3,0.7876446338,0.7854210174,0.0022236164,0.0601255223,0.0425499056,"[array(['garage', 'building_size'], dtype=object)]"
+2,0.7467160675,0.7453968803,0.0013191871,0.0656645636,0.045863347,"[array(['building_size'], dtype=object)]"
+1,0.0,0.0,0.0,0.1304749809,0.0906063436,"[array([], dtype=object)]"
